@@ -1,4 +1,4 @@
-# Production-Grade Helm Workflows:  Mastery
+# Production-grade Helm workflows:  mastery
 
 > ⚠️ **IMPORTANT: Bitnami Breaking Changes** - Bitnami has removed older image tags from Docker Hub. If you encounter `ErrImagePull` errors when installing WordPress, NGINX, or PostgreSQL charts, please see [**BITNAMI-WORKAROUND.md**](BITNAMI-WORKAROUND.md) for updated commands and solutions.
 
